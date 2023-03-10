@@ -48,3 +48,7 @@ a:focus, a:hover {
 	text-shadow: 2px 2px #800000;
 }
 /* the styles for the footer */
+
+footer p {
+	text-align: center;
+}
