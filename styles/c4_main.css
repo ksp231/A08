@@ -15,7 +15,7 @@ header img {
 
 header h2 {
 	font-size: 170%;
-	color: #800000;
+	color: var(--global-color-1);
 	text-indent: 30px;
 }
 
@@ -45,7 +45,7 @@ a:focus, a:hover {
 }
 
 .shadow {
-	text-shadow: 2px 2px #800000;
+	text-shadow: 2px 2px var(--global-color-1);
 }
 /* the styles for the footer */
 
